@@ -6,7 +6,7 @@ const galleryItems = [
     id: 1,
     title: 'Military Discipline',
     category: 'military',
-    image: 'https://images.pexels.com/photos/8615146/pexels-photo-8615146.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://res.cloudinary.com/dbrwyyagv/image/upload/v1770489561/SAVE_20250608_180529_cempdi.jpg',
     description: 'Cultivating discipline and commitment'
   },
   {
