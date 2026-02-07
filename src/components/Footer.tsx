@@ -13,7 +13,7 @@ export const Footer: React.FC = () => {
           <div>
             <h3 className="text-2xl font-bold mb-2 text-emerald-500">HMS</h3>
             <p className="text-slate-400">
-              Hossain Md B. Sabbir | Disciplined Developer | Military Professional
+              Hossain MDB Sabbir | Disciplined Developer | Military Professional
             </p>
           </div>
 
